@@ -65,11 +65,3 @@
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/YNDmitry/count.svg?"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YNDmitry/YNDmitry/output/snake.svg" alt="Snake animation" />
-
-###
