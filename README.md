@@ -3,14 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YNDmitry&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=YNDmitry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YNDmitry&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -61,7 +53,3 @@
 ###
 
 <img align="right" height="300" src="https://i.imgflip.com/976ng6.gif"  />
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/YNDmitry/count.svg?"  />
