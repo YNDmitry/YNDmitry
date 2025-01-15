@@ -49,7 +49,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
 </div>
-
-###
-
-<img align="right" height="300" src="https://i.imgflip.com/976ng6.gif"  />
