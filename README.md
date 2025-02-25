@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Dmitry and I'm a <strong>full-stack</strong> developer, from Earth (Russia)</h2>
+<h1 align="center">Hi 👋! My name is Dmitry and I'm a <strong style="font-weight: 900;">full-stack</strong> developer, from Earth (Russia)</h2>
 
 ###
 
