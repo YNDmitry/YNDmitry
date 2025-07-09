@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Main skills</h2>
+<h2 align="center" style="border:0;">Main skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -21,7 +21,7 @@
   <img width="12" />
 </div>
 
-<h2 align="center">Other skills</h2>
+<h2 align="center" style="border:0;">Other skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
