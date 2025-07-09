@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Dmitry and I'm a <strong style="font-weight: 900;">full-stack</strong> developer, from Earth (Russia)</h2>
+<h1 align="center">Hi 👋 <br/> My name is Dmitry and I'm a <strong style="font-weight: 900;">full-stack</strong> developer, from Earth (Russia)</h2>
 
 ###
 
@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
   <img width="12" />
