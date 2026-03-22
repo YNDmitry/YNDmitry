@@ -38,13 +38,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
-</p>
-
-<h3 align="center">📈 My GitHub Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YNDmitry&theme=react-dark" />
-</p>
