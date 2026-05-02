@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <strong>I'm Dmitry — full-stack developer from Earth 🌍 (Russia)</strong>
+  <strong>I'm Dmitry — full-stack developer from Earth 🌍</strong>
 </p>
 
 <br/>
